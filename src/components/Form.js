@@ -45,7 +45,7 @@ const Form = () => {
             </div>
           </div>
         </div>
-        <button type="submit" className="btn btn-primary m-2 mr-2 col-12">
+        <button type="submit" className="btn btn-primary m-2 p-2">
           Submit
         </button>
       </form>
